@@ -20,7 +20,7 @@ constexpr int CHOWDSP_WDF_DEFAULT_SIMD_ALIGNMENT = 16;
 #endif
 
 #include "wdft/wdft.h"
-#include "wdf/wdf.h"
+// #include "wdf/wdf.h"
 #include "rtype/rtype.h"
 
 #include "util/defer_impedance.h"
